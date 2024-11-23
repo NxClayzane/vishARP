@@ -1,0 +1,8 @@
+2024-11-22 13:45:26,884 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2024-11-22 13:45:27,874 - DEBUG - https://discord.com:443 "POST /api/webhooks/1309422889816035380/4IIEV_IlQqhPkzb-efHhJsxnj3EMDXEDvWD5YF4uq4D46ipi_oRq0Pu8Q0ks6s-59Ota HTTP/1.1" 204 0
+2024-11-22 13:50:57,639 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2024-11-22 13:50:58,348 - DEBUG - https://discord.com:443 "POST /api/webhooks/your_webhook_url HTTP/1.1" 405 49
+2024-11-22 13:51:30,515 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2024-11-22 13:51:31,092 - DEBUG - https://discord.com:443 "POST /api/webhooks/1309422889816035380/4IIEV_IlQqhPkzb-efHhJsxnj3EMDXEDvWD5YF4uq4D46ipi_oRq0Pu8Q0ks6s-59Ota HTTP/1.1" 204 0
+2024-11-22 13:55:40,359 - ERROR - Unexpected error sending to Discord: name 'requests' is not defined
+2024-11-22 13:56:42,235 - ERROR - Unexpected error sending to Discord: name 'json' is not defined
